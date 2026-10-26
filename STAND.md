@@ -1,7 +1,7 @@
 # Stand
 
-- Build: 2026-10-19 (`2026-10-19`)
-- Parkplätze: 3717129 POIs in 13818 Kacheln
-- Rest: 338201 POIs in 12879 Kacheln
+- Build: 2026-10-26 (`2026-10-26`)
+- Parkplätze: 3723138 POIs in 13820 Kacheln
+- Rest: 339323 POIs in 12882 Kacheln
 
 Daten © OpenStreetMap-Mitwirkende, ODbL.
